@@ -1,5 +1,6 @@
 # Importieren der notwendigen Bibliotheken
 # hier ist Numpy
+# tensors generalisierung von matrix
 
 import numpy as np
 
